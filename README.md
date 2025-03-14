@@ -1,4 +1,4 @@
-# luxury_makeup_brands_analysis
+# LuxuryMakeupBrandAnalysis-DSA210Project
 An analysis of luxury makeup brands and their social media engagement
 
 ## Overview  
