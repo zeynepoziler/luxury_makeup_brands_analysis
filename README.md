@@ -2,22 +2,21 @@
 An analysis of luxury makeup brands and their social media engagement
 
 ## Overview  
-This project investigates the correlation between luxury makeup brands' **social media engagement** and their **sales performance**.  
-The main goal is to analyze whether brands with high social media engagement (likes, shares, comments, influencer collaborations) lead to better sales performance. 
+This project investigates the correlation between luxury makeup brands'(YSL Beauty and Lancome) **social media engagement** and their **sales performance**.  
+The main goal is to analyze whether brands with high social media engagement (likes, shares, comments, influencer collaborations) lead to better growth performance. 
 
 ## Objectives  
 * Deciding whether **higher social media engagement leads to more sales**.  
 * Identifying which luxury brands has the best digital marketing performance.  
-* Comparing the impact of engagement on high-end brands vs. indie luxury brands.  
+* Comparing the impact of engagement between YSL Beauty and Lancome
 
 ## Data Sources  
 Getting the publicly available data from:  
-* **Instagram/TikTok**: Hashtag usage, likes, comments, influencer mentions  
-* **Google Trends**: Brand and product search popularity 
-* **Sephora & Beymen & Sevil**: Top-selling products and customer ratings  
+* **TikTok**: Hashtag usage, likes, comments, influencer mentions  
+
 
 ## Methodology  
-1. **Data Collection**: Gathering and cleaning data from social media and e-com platforms.  
+1. **Data Collection**: Gathering and cleaning data from Tiktok and e-com platforms.  
 2. **Data Analysis**:  
    - Performing **correlation analysis** between social engagement and their sales performance.  
    - Using **trend analysis** to see the shift in brand popularity over a time period.  
