@@ -34,7 +34,8 @@ Two key variables were **generated programmatically using Python and AI-supporte
 2. **Growth Rate Estimation (`GROWTH RATE (%)`)**:
    - A custom metric was created based on engagement score:
      
-     \[ \text{Engagement Score} = \frac{Likes + Comments}{Views} \]
+     Engagement Score= (Likes+Comments)/Views
+​
 
    - A base score was modified depending on the sentiment, ranging from -5% to +15% estimated growth.
 
