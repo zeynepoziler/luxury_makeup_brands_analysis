@@ -19,12 +19,12 @@ This project examines the relationship between **social media engagement** and *
 ## Data Collection
 - **32 TikTok videos were manually collected**, 16 per brand (YSL Beauty and Lancôme).
 - Data covered the period between **January–April 2025**, with **4 videos per month per brand**.
-- Each row included: `Date`, `Brand`, `Views`, `Likes`, `Comments`, `Caption`, `Video Type`, and `Why Selected`.
+- Each row included: **Date**, **Brand**, **Views**, **Likes**, **Comments**, **Caption**, **Video Type**, and **Why Selected**.
 - The dataset was manually created by reviewing each brand’s official TikTok content(@yslbeauty & @lancome.official) and curated based on engagement variety, content diversity, and brand activity.
 
 ---
 
-## 🤖 Synthetic Data (AI-assisted)
+## Synthetic Data (AI-assisted)
 Two key variables were **generated programmatically using Python and AI-supported logic**:
 
 1. **Sentiment Analysis (`SENTIMENT`)**:
