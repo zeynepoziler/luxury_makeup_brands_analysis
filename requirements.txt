@@ -1,0 +1,8 @@
+Python requirements:
+
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+openpyxl
